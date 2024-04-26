@@ -5,5 +5,5 @@
 }
 
 body {
-background-color: #840bbd;
+background-color:var(--cor-de-fundo);
 } 
